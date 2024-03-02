@@ -19,6 +19,7 @@ import twitter from './twitter.svg'
 import car from './car.svg'
 import estate from './estate.svg'
 import pricewise from './pricewise.svg'
+import primeng from './primeng.png'
 import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
 import threads from './threads.svg'
@@ -26,6 +27,12 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import vuejs from './vuejs.png'
+import angular from './angular.png'
+import firebase from './firebase.png'
+import nuxt from './nuxt.png'
+import postgres from './postgres.png'
+import mysql from './mysql-logo.svg'
 
 export {
     css,
@@ -49,11 +56,18 @@ export {
     car,
     estate,
     pricewise,
+    primeng,
     snapgram,
     summiz,
     threads,
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    vuejs,
+    angular,
+    firebase,
+    nuxt,
+    mysql,
+    postgres
 }

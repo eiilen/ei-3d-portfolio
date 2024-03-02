@@ -107,6 +107,15 @@ body:has(.card[data-color="green"]:hover) {
     @apply bg-gradient-to-r from-[#00c6ff] to-[#0072ff] bg-clip-text text-transparent;
   }
 
+  .green-gradient_text {
+    /* @apply bg-gradient-to-r from-[#a5b299] to-[#546145] bg-clip-text text-transparent; */
+    @apply bg-gradient-to-r from-[#a9c191] to-[#505c45] bg-clip-text text-transparent;
+  }
+  
+  .purple-gradient_text {
+    @apply bg-gradient-to-r from-[#d1a9e0] to-[#b765c7] bg-clip-text text-transparent;
+  }
+
   .input {
     @apply bg-white border border-gray-200 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2.5 font-normal shadow-card;
   }
