@@ -6,6 +6,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import itc from './itc.png'
 import igLogo from './ig-logo.png'
+import eivocado from './eivocado.png'
 
 export {
     hero,
@@ -15,5 +16,6 @@ export {
     tesla,
     logo,
     itc,
-    igLogo
+    igLogo,
+    eivocado
 }

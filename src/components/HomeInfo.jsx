@@ -24,7 +24,7 @@ const renderContent = {
   ),
   2: (
     <InfoBox 
-      text="Hard working, like to explore. Coffee is everything."
+      text="Hard working, persistent, shy, like to explore. Coffee is everything."
       link="/about"
       btnText="Learn More">
     </InfoBox>
@@ -32,7 +32,7 @@ const renderContent = {
   3: (
     <InfoBox 
       text="Believe it or not? This is my first React project!"
-      link="/projects"
+      link="/project"
       btnText="Visit my portfolio">
     </InfoBox>
   ),
