@@ -139,8 +139,8 @@ export const skills = [
 export const experiences = [
     {
         title: "Frontend Developer",
-        company_name: "Eivocado",
-        icon: eivocado,
+        company_name: "IG Tech",
+        icon: igLogo,
         iconBg: "#D1DBC2",
         date: "Mar 2022 - Present",
         points: [
