@@ -14,7 +14,7 @@ const About = () => {
       </h1>
 
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>Salted fish Developer based in Dayu, developing front end of website</p>
+        <p>frontend Developer based in Phnom Penh, developing front end of website</p>
       </div>
       
       <div className="py-10 flex flex-col">

@@ -19,12 +19,12 @@ const renderContent = {
       Hi, I am <span className="font-semibold">Ei</span>
       👋
       <br/>
-      A Salted Fish with a busy life and responsibilities.
+      a dev with a busy life and responsibilities.
     </h1>
   ),
   2: (
     <InfoBox 
-      text="Hard working, like to explore. Coffee is everything."
+      text="Hard working, persistent, shy, like to explore. Coffee is everything."
       link="/about"
       btnText="Learn More">
     </InfoBox>
@@ -38,7 +38,7 @@ const renderContent = {
   ),
   4: (
     <InfoBox 
-      text="Need a project delayed or looking for a lazy dev? I'm right here. Why not"
+      text="Need a project done or looking for a dev? I'm right here. Why not"
       link="/contact"
       btnText="Get in touch?">
     </InfoBox>

@@ -147,20 +147,19 @@ export const experiences = [
             "Developing and maintaining web applications using Angular and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Preparing user guide API documentation and providing support to other developers.",
         ],
     },
     {
-        title: "Frontend Developer Intern",
+        title: "Frontend Developer Internee",
         company_name: "Institute of Technology of Cambodia",
         icon: itc,
         iconBg: "#a2d2ff",
         date: "Aug 2021 - Oct 2021",
         points: [
             "Developing and maintaining existing school web applications using Nuxt.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learning new useful plugins and libraries to enhance the functionality of web applications.",
+            "Participating in daily meetings and receiving constructive feedback from senior developers.",
         ],
     },
 ];
@@ -174,7 +173,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/ei-saltedfish',
+        link: 'https://github.com/eiilen',
     },
     {
         name: 'LinkedIn',
@@ -184,46 +183,53 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    // {
-    //     iconUrl: pricewise,
-    //     theme: 'btn-back-red',
-    //     name: 'Amazon Price Tracker',
-    //     description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-    //     link: 'https://github.com/adrianhajdin/pricewise',
-    // },
-    // {
-    //     iconUrl: threads,
-    //     theme: 'btn-back-green',
-    //     name: 'Full Stack Threads Clone',
-    //     description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-    //     link: 'https://github.com/adrianhajdin/threads',
-    // },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Apple Website',
+        description: 'an animated website of Apple iPhone 15 Pro series, with 3D model displayed and can be played around.',
+        link: 'https://apple-clone-beige.vercel.app',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Cyber Fiction',
+        description: 'a cloned animated replica of Cyber Fiction website, using locomotive scroll and gsap.',
+        link: 'https://cyber-clone.vercel.app',
+    },
     {
         iconUrl: threads,
         theme: 'btn-back-blue',
-        name: 'Chat App',
-        description: 'chat app using Firebase',
-        link: 'https://https://github.com/ilenvin/ei-chat',
+        name: 'ReCare',
+        description: 'a healthcare management website where patients can book appointment with their doctor.',
+        link: 'https://recare.vercel.app',
     },
+    // {
+    //     iconUrl: threads,
+    //     theme: 'btn-back-blue',
+    //     name: 'Chat App',
+    //     description: 'chat app using Firebase',
+    //     link: 'https://recare.vercel.app',
+    // },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Todo Tracker',
         description: 'a simple todo tracker app',
-        link: 'https://github.com/ilenvin/todo_tracker',
+        link: 'https://cyber-clone.vercel.app',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Hospital Website',
         description: 'school project for hospital commercial website where users can browse through service provided',
-        link: 'https://github.com/VuthyDara/hospital-website',
+        link: 'https://cyber-clone.vercel.app',
     },
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'Employee Management',
         description: 'first school project using c programming language to add, update, view and delete employee\'s info.',
-        link: 'https://github.com/ilenvin/EMPLOYEEmenagement',
+        link: 'https://cyber-clone.vercel.app',
     }
 ];
