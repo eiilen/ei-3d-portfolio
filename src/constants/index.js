@@ -141,7 +141,7 @@ export const experiences = [
         title: "Frontend Developer",
         company_name: "IG Tech",
         icon: igLogo,
-        iconBg: "#D1DBC2",
+        iconBg: "#f0d688",
         date: "Mar 2022 - Present",
         points: [
             "Developing and maintaining web applications using Angular and other related technologies.",
@@ -154,7 +154,7 @@ export const experiences = [
     //     title: "Frontend Developer",
     //     company_name: "IG Tech",
     //     icon: igLogo,
-    //     iconBg: "#f0d688",
+    //     iconBg: "#D1DBC2",
     //     date: "Mar 2022 - Present",
     //     points: [
     //         "Developing and maintaining web applications using Angular and other related technologies.",
