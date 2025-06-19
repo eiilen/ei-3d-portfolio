@@ -32,7 +32,7 @@ const renderContent = {
   3: (
     <InfoBox 
       text="Believe it or not? This is my first React project!"
-      link="/projects"
+      link="/project"
       btnText="Visit my portfolio">
     </InfoBox>
   ),

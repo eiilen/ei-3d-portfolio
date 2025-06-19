@@ -1,4 +1,4 @@
-import { igLogo, itc, meta, shopify, starbucks, tesla } from "../assets/images";
+import { igLogo, itc, eivocado, meta, shopify, starbucks, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -139,9 +139,9 @@ export const skills = [
 export const experiences = [
     {
         title: "Frontend Developer",
-        company_name: "IG Tech",
-        icon: igLogo,
-        iconBg: "#f0d688",
+        company_name: "Eivocado",
+        icon: eivocado,
+        iconBg: "#D1DBC2",
         date: "Mar 2022 - Present",
         points: [
             "Developing and maintaining web applications using Angular and other related technologies.",
@@ -150,6 +150,19 @@ export const experiences = [
             "Preparing user guide API documentation and providing support to other developers.",
         ],
     },
+    // {
+    //     title: "Frontend Developer",
+    //     company_name: "IG Tech",
+    //     icon: igLogo,
+    //     iconBg: "#f0d688",
+    //     date: "Mar 2022 - Present",
+    //     points: [
+    //         "Developing and maintaining web applications using Angular and other related technologies.",
+    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //         "Implementing responsive design and ensuring cross-browser compatibility.",
+    //         "Participating in code reviews and providing constructive feedback to other developers.",
+    //     ],
+    // },
     {
         title: "Frontend Developer Internee",
         company_name: "Institute of Technology of Cambodia",
